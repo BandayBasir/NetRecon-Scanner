@@ -22,6 +22,5 @@ def main():
     save_json(results)
     generate_markdown(results)
 
-
 if __name__ == "__main__":
     main()

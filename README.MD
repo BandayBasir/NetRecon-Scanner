@@ -25,10 +25,24 @@ A Python-based Network Reconnaissance Tool that scans a CIDR subnet, identifies 
 
 ---
 
-## Installation
+## How to Run
 
-Open terminal inside the project folder and run:
+```bash
+git clone https://github.com/BandayBasir/NetRecon-Scanner.git
+cd NetRecon-Scanner
+
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## Installation (Linux / macOS)
 
 ```bash
 chmod +x install.sh
 ./install.sh
+```

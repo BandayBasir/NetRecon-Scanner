@@ -1,6 +1,11 @@
 # Network Scan Report
 
-## Host: 127.0.0.1
+## Host: 10.94.97.185
 Open Ports:
+- 139
 - 445
+
+## Host: 10.94.97.221
+Open Ports:
+- 53
 

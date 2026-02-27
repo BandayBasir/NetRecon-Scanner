@@ -56,7 +56,10 @@ The script will automatically:
 
 ## Installation (Linux / macOS)
 
-```bash
+git clone https://github.com/BandayBasir/NetRecon-Scanner.git
+cd NetRecon-Scanner
 chmod +x install.sh
 ./install.sh
+python3 main.py
+Enter CIDR subnet when prompted.
 ```

@@ -1,0 +1,3 @@
+*.sh text eol=lf
+*.py text eol=lf
+; I am saving scripts and py files in linux format so that it may run with a go..

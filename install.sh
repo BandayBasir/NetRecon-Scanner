@@ -4,6 +4,7 @@ echo "===================================="
 echo "   NetRecon Scanner Installation"
 echo "===================================="
 
+# Check Python installation
 if ! command -v python3 &> /dev/null
 then
     echo "Python3 is not installed. Please install Python3 first."

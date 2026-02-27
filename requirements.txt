@@ -1,0 +1,3 @@
+# NetRecon Scanner Dependencies
+# Uses only Python standard library modules.
+# No external packages required.

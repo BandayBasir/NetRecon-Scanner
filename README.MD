@@ -65,7 +65,8 @@ cd NetRecon-Scannerr
 ```bash
 chmod +x install.sh
 ```
+3. Start scanner
 ```bash
-3. python3 main.py
+python3 main.py
 ```
  

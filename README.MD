@@ -53,16 +53,19 @@ The script will automatically:
 - generate JSON and Markdown reports
 
 ---
-## Linux
-# 1. Clone repository
+### Linux
+
+1. Clone repository
+
+```bash
 git clone https://github.com/BandayBasir/NetRecon-Scanner.git
-cd NetRecon-Scanner
-
-# 2. Make installer executable
+cd NetRecon-Scannerr
+```
+2. Make installer executable
+```bash
 chmod +x install.sh
-
-# 3. Run installer
-./install.sh
-
-# 4. Start scanner
-python3 main.py
+```
+```bash
+3. python3 main.py
+```
+ 
